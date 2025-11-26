@@ -1,1 +1,3 @@
-print("hello")
+a=7
+if a%2 ==0
+	print("even number")
